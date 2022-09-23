@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><title type="text">Hugo 主题 MemE</title><subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle><updated>2022-09-23T15:47:51+00:00</updated><id>https://example.com/</id><link rel="alternate" type="text/html" href="https://example.com/"/><link rel="self" type="application/atom+xml" href="https://example.com/atom.xml"/><author><name>reuixiy</name><uri>https://example.com/</uri><email>reuixiy@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><generator uri="https://gohugo.io/" version="0.103.1">Hugo</generator><entry><title type="text">Recipe</title><link rel="alternate" type="text/html" href="https://example.com/remarking/recipe/"/><id>https://example.com/remarking/recipe/</id><updated>2022-09-23T15:47:48+00:00</updated><published>2022-09-23T23:15:25+08:00</published><author><name>reuixiy</name><uri>https://io-oi.me/</uri><email>reuixiy@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">日期 午餐 午餐图片 午点 午点图片 2022年9月1日 土豆牛腩 木耳娃娃菜 开洋萝卜汤 白米饭 奶黄……</summary><content type="html">&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>日期&lt;/th>
+&lt;th>午餐&lt;/th>
+&lt;th>午餐图片&lt;/th>
+&lt;th>午点&lt;/th>
+&lt;th>午点图片&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>2022年9月1日&lt;/td>
+&lt;td>土豆牛腩 木耳娃娃菜 开洋萝卜汤 白米饭&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image001.png" alt="2022-09-01">&lt;/td>
+&lt;td>奶黄包 晴王&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image003.png" alt="2022-09-01">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2022年9月2日&lt;/td>
+&lt;td>可乐鸡翅 珍珠鸡蛋羹 钱江小炒 芝麻饭&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>甜甜圈 西梅&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2022年9月5日&lt;/td>
+&lt;td>糖醋里脊 小炒娃娃菜 丝瓜蘑菇干贝煲 白米饭&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image005.png" alt="2022-09-01">&lt;/td>
+&lt;td>烧麦 冬枣&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image007.png" alt="2022-09-01">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2022年9月6日&lt;/td>
+&lt;td>水煮虾 西葫芦炒番茄 萝卜排骨汤 玉米糁饭&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image009.png" alt="2022-09-01">&lt;/td>
+&lt;td>红枣粥 人参果&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image011.png" alt="2022-09-01">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2022年9月7日&lt;/td>
+&lt;td>炸酱面 卤牛肉 龙利鱼番茄汤&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image013.png" alt="2022-09-01">&lt;/td>
+&lt;td>红豆餐包 香梨&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image015.png" alt="2022-09-01">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2022年9月8日&lt;/td>
+&lt;td>炒鸡块 炫彩蔬粒 三鲜汤 白米饭&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image017.png" alt="2022-09-01">&lt;/td>
+&lt;td>肉末粉丝 蓝莓&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image019.png" alt="2022-09-01">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2022年9月9日&lt;/td>
+&lt;td>小酥肉 花色虾仁 红烧肉末豆腐 红豆饭&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image021.png" alt="2022-09-01">&lt;/td>
+&lt;td>蛋挞 香蕉&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image023.png" alt="2022-09-01">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2022年9月13日&lt;/td>
+&lt;td>午餐 葱油鸦片鱼 山药莴笋 菌菇鸡丝汤&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image025.png" alt="2022-09-01">&lt;/td>
+&lt;td>小米饭 晴王&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image027.png" alt="2022-09-01">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2022年9月14日&lt;/td>
+&lt;td>玉米蔬菜猪肉云吞 红烧鸡腿 排骨芋艿煲&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image029.png" alt="2022-09-01">&lt;/td>
+&lt;td>珍宝蛋糕 千禧&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image031.png" alt="2022-09-01">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2022年9月15日&lt;/td>
+&lt;td>红烧鸭块 香干茼蒿 蔬菜丸子汤 白米饭&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image033.png" alt="2022-09-01">&lt;/td>
+&lt;td>炫彩小汤圆 黄瓜&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image035.png" alt="2022-09-01">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2022年9月16日&lt;/td>
+&lt;td>午餐 红烧素鸡 什锦小炒 罗宋汤 高粱饭&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image037.png" alt="2022-09-01">&lt;/td>
+&lt;td>半熟芝士 冬枣&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image039.png" alt="2022-09-01">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2022年9月19日&lt;/td>
+&lt;td>午餐 红烧狮子头 素炒茭白 淮杞鸽子汤 白米饭&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image041.png" alt="2022-09-01">&lt;/td>
+&lt;td>蒸玉米 西梅&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image043.png" alt="2022-09-01">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2022年9月20日&lt;/td>
+&lt;td>葱油鲍鱼 毛毛菜炒蘑菇 裙带菜肉丸汤 芝麻饭&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image045.png" alt="2022-09-01">&lt;/td>
+&lt;td>全麦吐司片 红提&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image047.png" alt="2022-09-01">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2022年9月21日&lt;/td>
+&lt;td>海鲜粥 刀切馒头 红烧鸡翅 肉片炒莴笋&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image049.png" alt="2022-09-01">&lt;/td>
+&lt;td>麻心汤圆 人参果&lt;/td>
+&lt;td>&lt;img src="https://example.com/images/clip_image051.png" alt="2022-09-01">&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></content></entry></feed>
